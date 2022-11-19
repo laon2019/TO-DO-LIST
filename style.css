@@ -26,7 +26,8 @@ body {
 
 .todo-box {
     background-color: white;
-    border: 1px solid #ddd;
+    border: 1px solid black;
+    border-radius: 25px;
 }
 
 .todo-input-box {
